@@ -14,4 +14,3 @@ class Student(Person):
         self.student_id = student_id
 
 class Teacher(Person)
-    
